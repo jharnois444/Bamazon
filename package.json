@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront built using MySQL and Node.JS",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jharnois444/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jharnois444/Bamazon/issues"
+  },
+  "homepage": "https://github.com/jharnois444/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
