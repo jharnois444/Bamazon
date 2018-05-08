@@ -19,7 +19,7 @@ insert into products (item_id, product_name, department_name, price, stock_quant
 insert into products (item_id, product_name, department_name, price, stock_quantity) 
     values (4, 'Apple iPad Pro', 'Electronics', 949.00, 55);
 insert into products (item_id, product_name, department_name, price, stock_quantity) 
-    values (5, 'Apple Mac Pro', 'Electronics', 3,999.00, 59);
+    values (5, 'Apple Mac Pro', 'Electronics', 3999.00, 59);
 insert into products (item_id, product_name, department_name, price, stock_quantity) 
     values (6, 'Cyrus Workstation', 'Furniture', 167.69, 13);
 insert into products (item_id, product_name, department_name, price, stock_quantity) 
@@ -27,6 +27,6 @@ insert into products (item_id, product_name, department_name, price, stock_quant
 insert into products (item_id, product_name, department_name, price, stock_quantity) 
     values (8, 'Sing It Back (Dave Cortex, Joshua Harnois Remix', 'Digital Music', 0.69, 32);
 insert into products (item_id, product_name, department_name, price, stock_quantity) 
-    values (9, 'Moog Subsequent 37 Analog Synthesizer', 'Musical Instruments', 1,499.00, 10);
+    values (9, 'Moog Subsequent 37 Analog Synthesizer', 'Musical Instruments', 1499.00, 10);
 insert into products (item_id, product_name, department_name, price, stock_quantity) 
     values (10, '1984', 'Books', 5.55, 100); 
